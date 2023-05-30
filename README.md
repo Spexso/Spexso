@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spexso
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C++/Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
