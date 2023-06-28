@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kağan
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++/Java
-- 💞️ I’m looking to collaborate on Unreal Engine 4 Projects
+- 💞️ I’m looking to collaborate on Unreal Engine Projects
 - 📫 Reach me on Discord => Spexso#8883
 
 <!---
