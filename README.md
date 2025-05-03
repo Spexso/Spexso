@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kağan
+- Hi, I’m Kağan
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Anything in need
+- I’m currently learning how to learn more things in the same amount of time
 - 📫 Reach me on Discord => Spexso#8883
 
 <!---
